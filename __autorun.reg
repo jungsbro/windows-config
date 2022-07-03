@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; Description   : script for batchrc
+; Author        : jungsbro
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor]
+"AutoRun"="%USERPROFILE%\\batchrc.cmd"
